@@ -1,5 +1,0 @@
-The result of sum is : 3
-The result of sum is : 3
-The result of sum is : 1489
-The result of sum is : 1489
-The result of sum is : 1489
